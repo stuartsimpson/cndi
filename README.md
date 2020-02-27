@@ -1,2 +1,2 @@
 # cndi
-Connection Naming Directory Interface is a way of creating agents for common connections used throughout an application.  The agents can be customized to meet the needs of an application.
+Connection Naming Directory Interface is a way of creating agents for common connections used throughout an application.  The agents can be customized to meet the needs of an application or how they are used.  This also allows for a seperation of database/collection/schema names to be adappted or changed based on deployment needs.  I developed this because I was tired of searching my code each time I wanted to chage how or were data was stored. This also allows for an agent to be used to seperate how the data is persisted from logic of the code to any degree desired.
